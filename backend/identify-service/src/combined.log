@@ -1,0 +1,98 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:45:26.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Client URL: 4001","timestamp":"2025-04-05T20:45:26.874Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"API URL: undefined","timestamp":"2025-04-05T20:45:26.874Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Database URL: undefined","timestamp":"2025-04-05T20:45:26.875Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Secret Key: undefined","timestamp":"2025-04-05T20:45:26.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Redis URL: undefined","timestamp":"2025-04-05T20:45:26.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Redis Password: undefined","timestamp":"2025-04-05T20:45:26.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Redis Database: undefined","timestamp":"2025-04-05T20:45:26.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Redis Expiration Time: undefined","timestamp":"2025-04-05T20:45:26.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Redis Queue Name: undefined","timestamp":"2025-04-05T20:45:26.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Redis Job Processing Time: undefined","timestamp":"2025-04-05T20:45:26.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:45:50.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:46:07.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:46:13.956Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:46:31.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:46:33.992Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:47:50.155Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4001","timestamp":"2025-04-05T20:48:07.250Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:48:13.975Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:48:22.838Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:48:28.936Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:48:36.346Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:48:59.062Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:49:40.926Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:49:46.397Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:51:24.277Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:56:20.616Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T20:57:36.997Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:03:07.754Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:04:27.618Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:05:10.185Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:05:14.890Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:05:27.305Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:06:25.314Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:06:36.186Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:07:04.962Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:08:03.641Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:08:03.681Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:08:26.826Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:08:26.853Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:08:53.746Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:08:53.775Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:11:57.888Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:11:57.917Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:12:29.610Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:12:29.644Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:13:39.303Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:13:39.334Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:16:46.092Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:16:46.124Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:20:59.272Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:20:59.308Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:22:40.924Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:22:40.955Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:29:43.642Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:29:43.671Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:31:38.370Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:31:38.404Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:32:36.507Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:32:36.537Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:32:39.913Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:32:39.941Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:34:03.333Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:34:03.363Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:35:25.876Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:35:25.900Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:35:38.446Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:35:38.484Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:36:00.881Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:36:00.919Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:36:18.639Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:36:18.670Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:38:37.384Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:38:37.409Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:38:43.373Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:38:43.413Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:39:05.741Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:39:05.769Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:39:21.460Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:39:21.461Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:40:14.983Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:40:15.016Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:40:17.824Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:40:17.825Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:40:19.994Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:40:19.995Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:40:20.955Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:40:20.956Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:40:21.987Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:40:21.988Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:40:56.416Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:40:56.440Z"}
+[32minfo[39m: Server is running on port 4001 {"timestamp":"2025-04-05T21:41:03.170Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-05T21:41:03.199Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:41:10.988Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:41:10.989Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-05T21:41:11.976Z"}
+[32minfo[39m: Request body, undefined {"timestamp":"2025-04-05T21:41:11.977Z"}
