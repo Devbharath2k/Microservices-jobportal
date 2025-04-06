@@ -197,6 +197,7 @@ const Userprofile = {
           .status(StatusCodes.BAD_REQUEST)
           .json({ message: "Missing required fields" });
       }
+  
       const user = await User.findOne({ email });
       if (!user) {
         logger.warning("User not found");
@@ -204,36 +205,24 @@ const Userprofile = {
           .status(StatusCodes.UNAUTHORIZED)
           .json({ message: "User not found" });
       }
-      const otp = await generate();
-      const expiryTime = new Date() + 60 * 1000 * 5; // 5 minutes expiry
-
+  
+      const otp = await generate(); // Assuming this is your OTP generator
+      const expiryTime = new Date(Date.now() + 5 * 60 * 1000); // 5 mins from now
+  
       user.forgot_password_otp = otp;
       user.forgot_password_otp_expiry = expiryTime;
       await user.save();
-
+  
       const mailOptions = {
         from: process.env.NODEMAILER_USER,
         to: user.email,
         subject: "Reset Password OTP",
         text: `Your OTP is ${otp}. This OTP will expire in 5 minutes.`,
       };
+  
+      await transporter.sendMail(mailOptions);
       logger.info(`OTP sent to ${email}`);
-      await transporter.sendMail(
-        mailOptions((error, info) => {
-          if (error) {
-            logger.error(`Error sending OTP to ${email}: ${error}`);
-            return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
-              message: "Failed to send OTP",
-              success: false,
-            });
-          }
-          logger.info(`OTP sent to ${email}`);
-          return res.status(StatusCodes.ACCEPTED).json({
-            message: "OTP sent successfully",
-            success: true,
-          });
-        })
-      );
+  
       return res.status(StatusCodes.ACCEPTED).json({
         message: "OTP sent successfully",
         success: true,
@@ -241,11 +230,11 @@ const Userprofile = {
     } catch (error) {
       logger.error(error);
       return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
-        message: "internal server error",
+        message: "Internal server error",
         success: false,
       });
     }
-  },
+  },  
   verfiypassword: async (req, res) => {
     try {
       const { otp, email } = req.body;

@@ -244,3 +244,50 @@
 [32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:15:55.882Z"}
 [32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:16:00.085Z"}
 [32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:16:00.111Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:17:01.346Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:17:01.374Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:17:02.518Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:17:02.519Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:17:09.197Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:17:09.198Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:18:11.187Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:18:11.218Z"}
+[32minfo[39m: Received POST request to /api/v1/verfiy-password {"timestamp":"2025-04-06T17:18:14.781Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","otp":"1483","timestamp":"2025-04-06T17:18:14.782Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:18:17.670Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:18:17.671Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:20:05.495Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:20:05.524Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:20:08.351Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:20:08.352Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:20:10.151Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:20:10.152Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:20:49.576Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:20:49.602Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:20:50.777Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:20:50.779Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com"} {"timestamp":"2025-04-06T17:20:50.779Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:22:02.001Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:22:02.042Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:22:11.179Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:22:11.210Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:22:15.242Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:22:15.243Z"}
+[32minfo[39m: Received POST request to /api/v1/forgot-password {"timestamp":"2025-04-06T17:22:16.268Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:22:16.269Z"}
+[32minfo[39m: Received POST request to /api/v1/forgotpassword {"timestamp":"2025-04-06T17:22:53.283Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","timestamp":"2025-04-06T17:22:53.285Z"}
+[32minfo[39m: OTP sent to devbharathkathirvel@gmail.com {"timestamp":"2025-04-06T17:22:56.743Z"}
+[32minfo[39m: Received POST request to /api/v1/verfiy-password {"timestamp":"2025-04-06T17:23:19.129Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","otp":"9998","timestamp":"2025-04-06T17:23:19.131Z"}
+[32minfo[39m: Received POST request to /api/v1/verfiypassword {"timestamp":"2025-04-06T17:23:24.178Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","otp":"9998","timestamp":"2025-04-06T17:23:24.178Z"}
+[32minfo[39m: Password reset for devbharathkathirvel@gmail.com {"timestamp":"2025-04-06T17:23:24.189Z"}
+[32minfo[39m: Received POST request to /api/v1/resetpassword {"timestamp":"2025-04-06T17:23:47.708Z"}
+[32minfo[39m: Request body: {"confirmpassword":"345","email":"devbharathkathirvel@gmail.com","password":"345","timestamp":"2025-04-06T17:23:47.709Z"}
+[32minfo[39m: Password reset for devbharathkathirvel@gmail.com {"timestamp":"2025-04-06T17:23:47.794Z"}
+[32minfo[39m: Received POST request to /api/v1/logout {"timestamp":"2025-04-06T17:23:55.007Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T17:23:55.007Z"}
+[32minfo[39m: User logged out successfully {"timestamp":"2025-04-06T17:23:55.014Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:35:31.186Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:35:31.220Z"}

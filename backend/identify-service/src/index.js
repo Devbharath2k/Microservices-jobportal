@@ -62,14 +62,19 @@ app.use(async (req, res, next) => {
   }
 });
 
-// 6. Logger — ✅ Now it will see `req.body` correctly
+// 6. Logger — ✅ Now it will see `req.body` correctly]]
 app.use((req, res, next) => {
+  if (req.originalUrl === "/health") return next(); // skip
   logger.info(`Received ${req.method} request to ${req.originalUrl}`);
-  logger.info("Request body:", req.body); // Show object directly
+  logger.info("Request body:", req.body);
   next();
 });
 
-// 7. Sensitive Endpoints Limiter
+
+
+
+
+
 const sensitiveEndpointsLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
   max: 50,
@@ -86,6 +91,11 @@ const sensitiveEndpointsLimiter = rateLimit({
 
 app.use("/api/v1/register", sensitiveEndpointsLimiter);
 app.use("/api/v1/login", sensitiveEndpointsLimiter);
+app.use("/api/v1/update", sensitiveEndpointsLimiter);
+app.use("/api/v1/forgotpassword", sensitiveEndpointsLimiter);
+app.use("/api/v1/verfiy-password", sensitiveEndpointsLimiter);
+app.use("/api/v1/reset-password", sensitiveEndpointsLimiter);
+app.use("/api/v1/logout", sensitiveEndpointsLimiter);
 
 // 8. Routes
 app.use("/api", router);
