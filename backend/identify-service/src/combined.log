@@ -291,3 +291,5 @@
 [32minfo[39m: User logged out successfully {"timestamp":"2025-04-06T17:23:55.014Z"}
 [32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:35:31.186Z"}
 [32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:35:31.220Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:37:16.738Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:37:16.763Z"}

@@ -64,16 +64,10 @@ app.use(async (req, res, next) => {
 
 // 6. Logger — ✅ Now it will see `req.body` correctly]]
 app.use((req, res, next) => {
-  if (req.originalUrl === "/health") return next(); // skip
   logger.info(`Received ${req.method} request to ${req.originalUrl}`);
   logger.info("Request body:", req.body);
   next();
 });
-
-
-
-
-
 
 const sensitiveEndpointsLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
