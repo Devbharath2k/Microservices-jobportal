@@ -133,3 +133,114 @@
 [32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:03:33.876Z"}
 [32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:03:44.931Z"}
 [32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:03:44.958Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:11:42.787Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:11:42.817Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:11:47.257Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:11:47.290Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-06T16:11:59.067Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T16:11:59.069Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-06T16:12:02.280Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T16:12:02.282Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:13:57.838Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:13:57.866Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:13:59.806Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:13:59.832Z"}
+[32minfo[39m: Received POST request to /api/v1/register {"timestamp":"2025-04-06T16:14:04.207Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T16:14:04.208Z"}
+[32minfo[39m: User registered successfully {"timestamp":"2025-04-06T16:14:06.105Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:14:40.123Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:14:40.149Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:14:49.211Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"345","role":"admin","timestamp":"2025-04-06T16:14:49.215Z"}
+[31merror[39m: logger.warning is not a function {"timestamp":"2025-04-06T16:14:49.401Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:14:58.210Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:14:58.211Z"}
+[31merror[39m: logger.warning is not a function {"timestamp":"2025-04-06T16:14:58.348Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:15:00.360Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:15:00.363Z"}
+[31merror[39m: logger.warning is not a function {"timestamp":"2025-04-06T16:15:00.505Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:15:22.589Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:15:22.617Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:15:40.545Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:15:40.582Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:15:48.116Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:15:48.117Z"}
+[31merror[39m: user is not defined {"timestamp":"2025-04-06T16:15:48.209Z"}
+[31merror[39m: Failed to generate refresh token {"timestamp":"2025-04-06T16:15:48.211Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:16:46.166Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:16:46.199Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:16:48.317Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:16:48.319Z"}
+[31merror[39m: user is not defined {"timestamp":"2025-04-06T16:16:48.410Z"}
+[31merror[39m: Failed to generate refresh token {"timestamp":"2025-04-06T16:16:48.411Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:17:52.996Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:17:53.034Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:17:56.093Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:17:56.094Z"}
+[32minfo[39m: User logged in successfully {"timestamp":"2025-04-06T16:17:56.206Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:18:22.943Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:18:22.944Z"}
+[32minfo[39m: User logged in successfully {"timestamp":"2025-04-06T16:18:23.028Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:18:44.107Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:18:44.133Z"}
+[32minfo[39m: Received POST request to /api/v1/update {"timestamp":"2025-04-06T16:18:56.957Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T16:18:56.958Z"}
+[31merror[39m: Cannot access 'token' before initialization {"timestamp":"2025-04-06T16:18:56.969Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:19:21.675Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:19:21.728Z"}
+[32minfo[39m: Received POST request to /api/v1/update {"timestamp":"2025-04-06T16:19:22.599Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T16:19:22.601Z"}
+[31merror[39m: Cannot access 'token' before initialization {"timestamp":"2025-04-06T16:19:22.620Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:19:57.053Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:19:57.078Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:20:10.076Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:20:10.077Z"}
+[32minfo[39m: User logged in successfully {"timestamp":"2025-04-06T16:20:10.172Z"}
+[32minfo[39m: Received POST request to /api/v1/login {"timestamp":"2025-04-06T16:20:16.420Z"}
+[32minfo[39m: Request body: {"email":"devbharathkathirvel@gmail.com","password":"123","role":"admin","timestamp":"2025-04-06T16:20:16.421Z"}
+[32minfo[39m: User logged in successfully {"timestamp":"2025-04-06T16:20:16.576Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:20:32.006Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:20:32.040Z"}
+[32minfo[39m: Received POST request to /api/v1/update {"timestamp":"2025-04-06T16:20:41.793Z"}
+[32minfo[39m: Request body: {"timestamp":"2025-04-06T16:20:41.795Z"}
+[32minfo[39m: User profile updated successfully {"timestamp":"2025-04-06T16:20:41.895Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:21:22.251Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:21:22.278Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:21:24.630Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:21:24.654Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:22:27.414Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:22:27.444Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:23:44.255Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:23:44.284Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:23:48.941Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:23:48.980Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T16:23:53.762Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T16:23:53.788Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:01:45.953Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:01:45.989Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:01:49.269Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:01:49.300Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:06:16.470Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:06:16.495Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:08:10.321Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:08:10.353Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:08:41.579Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:08:41.607Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:09:25.323Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:09:25.372Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:10:58.661Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:10:58.693Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:12:38.719Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:12:38.750Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:14:20.888Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:14:20.914Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:14:52.551Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:14:52.584Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:14:57.584Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:14:57.623Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:15:19.664Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:15:19.692Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:15:55.855Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:15:55.882Z"}
+[32minfo[39m: 🚀 Server running on port 4001 {"timestamp":"2025-04-06T17:16:00.085Z"}
+[32minfo[39m: Connected to MongoDB :) {"timestamp":"2025-04-06T17:16:00.111Z"}

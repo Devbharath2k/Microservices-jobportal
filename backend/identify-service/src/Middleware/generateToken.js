@@ -24,7 +24,7 @@ const Refreshtoken = async (userId) => {
       expiresIn: "1d",
     });
     const updatetoken = await User.updateOne(
-      { id: user._id },
+      { _id: userId },
       {
         refresh_token: token,
       }
@@ -39,7 +39,8 @@ const Refreshtoken = async (userId) => {
 const Authorization = async (req, res, next) => {
   try {
     const token =
-      req.cookies.accesstoken || req.headers.authorization?.split(" ")[1];
+      req.cookies.Accesstoken || req.headers.authorization?.split(" ")[1];
+
     if (!token) {
       logger.warn("No token found");
       res.status(StatusCodes.UNAUTHORIZED).json({ error: "No token found" });
