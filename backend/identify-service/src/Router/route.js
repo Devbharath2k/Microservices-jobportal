@@ -1,10 +1,11 @@
-import express from 'express';
-import Userprofile from '../Controller/userController.js';
-import {profilephotoUploader, resumeUpload} from '../Utils/multer.js'
-import { Authorization } from '../Middleware/generateToken.js';
-const router = express.Router();
+import express from "express";
+import multer from "multer";
+import Userprofile from "../Controller/userController.js";
 
-router.post('/register', profilephotoUploader, Userprofile.register);
-router.post('/login', Userprofile.login);
+const router = express.Router();
+const upload = multer(); // Use memory storage if sending to Cloudinary directly
+
+router.post("/v1/register", upload.single("profilephoto"), Userprofile.register);
+router.post("/v1/login", Userprofile.login);
 
 export default router;
